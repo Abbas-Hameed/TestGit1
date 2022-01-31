@@ -10,7 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("ABBAS HAMEED")
+<<<<<<< HEAD
 		 Text("hotfix branch")
+=======
+		 Text("This is iss53")
+		 Text("Third changed to iss53 branch")
+		 
+>>>>>>> iss53
             .padding()
     }
 }
